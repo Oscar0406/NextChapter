@@ -3,6 +3,7 @@ node_modules
 out
 .env*
 !.env.example
+.env.example
 .env.local
 README.md
 npm-debug.log*
