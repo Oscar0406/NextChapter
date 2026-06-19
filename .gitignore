@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+.env*
+!.env.example
+.env.local
+README.md
+npm-debug.log*
+*.log
+*.tsbuildinfo
